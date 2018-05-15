@@ -1,7 +1,6 @@
 # RT
 
-42 school graphic group project (4 students)
-Second part of RTv1
+42 school graphic group project (<strong>4 students</strong>). Second part of RTv1.
 
 Creation of a program able to generate images according to raytracing protocol.
 
