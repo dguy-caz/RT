@@ -87,7 +87,7 @@ Check in the scenes/basic directory for the complete format of all objects.
 ![image](https://user-images.githubusercontent.com/28509576/40065969-523844b8-5863-11e8-8198-d3c7af6ba477.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065321-cb46d25e-5861-11e8-8cf6-f942255cbd1b.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065328-ce39996a-5861-11e8-8084-01fba14f16c1.png)
-![image](https://user-images.githubusercontent.com/28509576/40065337-d1c87d3a-5861-11e8-960f-6331de127816.png)
+![image](https://user-images.githubusercontent.com/28509576/40066269-0cc70c6a-5864-11e8-8e69-e2ff5c6d152a.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065338-d3da40d6-5861-11e8-89b9-49773006041b.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065343-d68c76be-5861-11e8-88bb-c007daecf9a1.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065345-d907676e-5861-11e8-86e4-35a38a251ac8.png)
