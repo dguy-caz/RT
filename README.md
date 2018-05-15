@@ -83,9 +83,8 @@ Check in the scenes/basic directory for the complete format of all objects.
 
 ![image](https://user-images.githubusercontent.com/28509576/40065266-afada644-5861-11e8-9905-ed83b6d73ada.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065288-bdd87456-5861-11e8-8c6d-112981b56992.png)
-![image](https://user-images.githubusercontent.com/28509576/40065293-c13a5cea-5861-11e8-9947-ee19e15770d3.png)
-![image](https://user-images.githubusercontent.com/28509576/40065300-c51d01aa-5861-11e8-955c-122002d2c3b2.png)
-![image](https://user-images.githubusercontent.com/28509576/40065315-c8c99dea-5861-11e8-9189-b00fd25dec82.png)
+![image](https://user-images.githubusercontent.com/28509576/40065743-bf6f8826-5862-11e8-9752-db5868a6987a.png)
+![image](https://user-images.githubusercontent.com/28509576/40065969-523844b8-5863-11e8-8198-d3c7af6ba477.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065321-cb46d25e-5861-11e8-8cf6-f942255cbd1b.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065328-ce39996a-5861-11e8-8084-01fba14f16c1.png)
 ![image](https://user-images.githubusercontent.com/28509576/40065337-d1c87d3a-5861-11e8-960f-6331de127816.png)
