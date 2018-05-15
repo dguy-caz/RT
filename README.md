@@ -35,15 +35,13 @@ make
 ```
 
  ## Commands
-
- ### Mouvements:
+ ### Mouvements
 * Translate: `W, A, S, D`
 * Rotate: `UP, LEFT, DOWN, RIGHT`
 * Lift: `Q, E`
 * Pivot: `Z, X`
 
-
-### Render mode:
+### Render mode
 * Pixelisation: `SPACE`
 * Edit mode: `ENTER`
 * Anti-aliasing: `R`
@@ -52,7 +50,7 @@ make
 * Cell-shading: `C`
 * Filter: `0, 1, 2, 3, 4...`
 
-### Save / import :</h2><br />
+### Save / import
 * Save image: `O`
 * Save scene: `J`
 * Load object: `K`
@@ -61,8 +59,7 @@ make
 * Delete object: `RMB`
 
 
-### Others :</h3><br />
-
+### Others
 * Random perlin: `M`
 * Remove ambient: `I`
 * Add recursion: `U`
@@ -77,41 +74,21 @@ make
 ## Input file format
 * The scene and all the object are describe between '{' and '}'.
 * The objects set by our RT are : "plane", "sphere", "cone", "cylinder"
-  "disk", "triangle", "quad", "pyramide", "cube", "glass", "paraboloid".
+  "disk", "triangle", "quad", "pyramide", "cube", "glass", "paraboloid"
 * For the lights it's : "light", "area_light"
 
 Check in the scenes/basic directory for the complete format of all objects.
 
 ## Examples
 
-![screenshot_392018_171118](https://user-images.githubusercontent.com/27351943/37294364-f202237c-2615-11e8-868e-4aa78b797bec.png)
-
-![image 3](https://user-images.githubusercontent.com/27351943/37253487-96c84d94-2532-11e8-8616-81b5ee1ac6e3.png)
-
-![screenshot_2202018_11582](https://user-images.githubusercontent.com/27351943/37253276-ee2d4470-252f-11e8-95cb-3bef9bbbad61.png)
-
-
-![image 1](https://user-images.githubusercontent.com/27351943/37253298-40b1b334-2530-11e8-984e-f449f91e8b5a.png)
-
-![screen shot 2018-02-28 at 8 05 50 pm](https://user-images.githubusercontent.com/27351943/37253303-57992546-2530-11e8-9f2c-7f0b4e9ccff6.png)
-
-
-![image](https://user-images.githubusercontent.com/27351943/37253311-6b7e8164-2530-11e8-89f9-2464825515c7.png)
-
-![screen shot 2018-02-27 at 1 13 05 am](https://user-images.githubusercontent.com/27351943/37253322-90982374-2530-11e8-912b-135bb5e03495.png)
-
-![screen shot 2018-02-27 at 9 29 26 am](https://user-images.githubusercontent.com/27351943/37253323-90c8207e-2530-11e8-9034-f8737677a84a.png)
-
-![screen shot 2018-02-07 at 10 47 15 pm](https://user-images.githubusercontent.com/27351943/37253368-388ac500-2531-11e8-900a-981875fc4619.png)
-
-![screen shot 2018-02-09 at 3 48 36 am](https://user-images.githubusercontent.com/27351943/37253369-38c63e96-2531-11e8-93a1-f22306bfe78f.png)
-
-![screen shot 2018-02-16 at 3 49 51 pm](https://user-images.githubusercontent.com/27351943/37253370-38f33f54-2531-11e8-8a29-d72cb727e28d.png)
-
-![image 2](https://user-images.githubusercontent.com/27351943/37253372-39236e04-2531-11e8-8b36-e1b81ac6acac.png)
-
-
-![screen shot 2018-03-11 at 1 37 01 pm](https://user-images.githubusercontent.com/27351943/37253395-686c3132-2531-11e8-8db6-f6a1b188b76d.png)
-
-
-Enjoy !
+![image](https://user-images.githubusercontent.com/28509576/40065266-afada644-5861-11e8-9905-ed83b6d73ada.png)
+![image](https://user-images.githubusercontent.com/28509576/40065288-bdd87456-5861-11e8-8c6d-112981b56992.png)
+![image](https://user-images.githubusercontent.com/28509576/40065293-c13a5cea-5861-11e8-9947-ee19e15770d3.png)
+![image](https://user-images.githubusercontent.com/28509576/40065300-c51d01aa-5861-11e8-955c-122002d2c3b2.png)
+![image](https://user-images.githubusercontent.com/28509576/40065315-c8c99dea-5861-11e8-9189-b00fd25dec82.png)
+![image](https://user-images.githubusercontent.com/28509576/40065321-cb46d25e-5861-11e8-8cf6-f942255cbd1b.png)
+![image](https://user-images.githubusercontent.com/28509576/40065328-ce39996a-5861-11e8-8084-01fba14f16c1.png)
+![image](https://user-images.githubusercontent.com/28509576/40065337-d1c87d3a-5861-11e8-960f-6331de127816.png)
+![image](https://user-images.githubusercontent.com/28509576/40065338-d3da40d6-5861-11e8-89b9-49773006041b.png)
+![image](https://user-images.githubusercontent.com/28509576/40065343-d68c76be-5861-11e8-88bb-c007daecf9a1.png)
+![image](https://user-images.githubusercontent.com/28509576/40065345-d907676e-5861-11e8-86e4-35a38a251ac8.png)
