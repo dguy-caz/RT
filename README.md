@@ -15,7 +15,7 @@ Those computer generated images will each represent a scene, from a specific ang
 * part of parsing
 * part of texturing (skybox)
 
-## other features
+## Other features
 * Figures: disk, cube
 * Refraction, reflection, transparency
 * ambient, occlusion, cel-shading, filter
